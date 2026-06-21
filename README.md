@@ -12,6 +12,10 @@ Documentation:
 
 <https://go165.github.io/agent-skill-groups/>
 
+Search phrases page:
+
+<https://go165.github.io/agent-skill-groups/search-phrases.html>
+
 Search landing page:
 
 <https://go165.github.io/skill-groups/>
@@ -23,9 +27,9 @@ Search landing page:
 and generic agent runtimes.
 
 If you searched GitHub for `skill groups`, `skill-groups`, `agent skill groups`,
-`github skills group`, or `github skill-group`, this repository points to the
-maintained manager rather than an unrelated class project, study group, or game
-mod.
+`github skills group`, `github skill-group`, `skill manager`, or
+`skills manager`, this repository points to the maintained manager rather than
+an unrelated class project, study group, or game mod.
 
 Use the canonical project when an agent workstation has too many always-on
 skills and needs a repeatable way to:
